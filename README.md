@@ -1,4 +1,5 @@
-## Welcome to jBodys project pages
+# Welcome to jBodys project pages
+# PL
 
 Witamy na stronie projektu jBodys
 ![Logotype jbodys](http://logo.jbodys.com/jbodys_icon_text.png)
@@ -18,3 +19,21 @@ zadaniem jest tworzenie środowiska dla jloads do załadowania statycznych medi�
 
 + [Docs jRuns.com](https://docs.jruns.com/)
 
+
+# EN
+
+This is very simple from technically side, because of needs of humans, we have clouds, blockchains, bigdata and what still we need is API, that's why I started 2 years ago some project: 
+"API Foundation" 
+https://docs.apifoundation.com/
+
+and jLoads library to build any frontend by just loading media files as tree of simple dependency, without writing code in some frameworks. 
+I am using only native technologies, because how we see, currently we need many different technologies build togheter, they should be simple and be modular such a bricks for childrens. 
+
+I am trying thinking such architect not devops, that's the result.
+I will not creating any new language or framework, just I will help use all what we have now and what will be invented in the future for better interaction with human (with personalisation).
+here is some example:
+https://edit.ovh/#a
+look at sourcecode...
+
+
+it's different way of thinking, many developers are asking for languages or framework's but customers are asking for solutions. Here we have some option to prepare more deeply services, such cloud based interface creator with CDN, what I call: hashtag#jBodys and the hashtag#jRuns solution for running it on server side, but the solutions are in preparation and i havent any idea to finish it with some hashtag#developers some day...
