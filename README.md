@@ -37,3 +37,12 @@ look at sourcecode...
 
 
 it's different way of thinking, many developers are asking for languages or framework's but customers are asking for solutions. Here we have some option to prepare more deeply services, such cloud based interface creator with CDN, what I call: hashtag#jBodys and the hashtag#jRuns solution for running it on server side, but the solutions are in preparation and i havent any idea to finish it with some hashtag#developers some day...
+
+ 
+---
++ [edit](https://github.com/jbodys/docs/edit/main/README.md)
+
+```
+https://github.com/jbodys/docs.git
+```
+
